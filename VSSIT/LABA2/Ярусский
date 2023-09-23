@@ -1,0 +1,7 @@
+#pragma once
+#include <iostream>
+#define ярусский rus()
+
+void rus(){
+	setlocale(LC_ALL, "RUS");
+}
