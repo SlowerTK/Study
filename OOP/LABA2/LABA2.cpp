@@ -1,5 +1,5 @@
-п»ї//Р’Р°СЂРёР°РЅС‚ 2
-#include "РЇСЂСѓСЃСЃРєРёР№"
+//Вариант 2
+#include "Ярусский"
 #include <iostream>
 #include <string>
 
@@ -43,33 +43,32 @@ void MailAdress::SetApartmentNumber(int number) {
 	apartment = number;
 }
 
-void newMailAdress(MailAdress &Name) {
+void newMailAdress(MailAdress& Name) {
 	char* newStreet = new char[100];
 	int newHouse = NULL;
 	int newApartment = NULL;
 
-	std::cout << "Р’РІРµРґРёС‚Рµ РёРјСЏ СѓР»РёС†С‹: ";
+	std::cout << "Введите имя улицы: ";
 	std::cin >> newStreet;
-	std::cout << "Р’РІРµРґРёС‚Рµ РЅРѕРјРµСЂ РґРѕРјР°: ";
+	std::cout << "Введите номер дома: ";
 	std::cin >> newHouse;
-	std::cout << "Р’РІРµРґРёС‚Рµ РЅРѕРјРµСЂ РєРІР°СЂС‚РёСЂС‹: ";
+	std::cout << "Введите номер квартиры: ";
 	std::cin >> newApartment;
 
 	Name.SetStreetName(newStreet);
 	Name.SetHouseNumber(newHouse);
 	Name.SetApartmentNumber(newApartment);
-	delete[] newStreet;
 }
 
 void outMailAdress(MailAdress &Name) {
-	std::cout << "РЈР»РёС†Р°: " << Name.GetStreetName() << std::endl;
-	std::cout << "Р”РѕРј: " << Name.GetHouseNumber() << std::endl;
-	std::cout << "РљРІР°СЂС‚РёСЂР°: " << Name.GetApartmentNumber() << std::endl;
+	std::cout << "Улица: " << Name.GetStreetName() << std::endl;
+	std::cout << "Дом: " << Name.GetHouseNumber() << std::endl;
+	std::cout << "Квартира: " << Name.GetApartmentNumber() << std::endl;
 }
 
 int main()
 {
-	РЇСЂСѓСЃСЃРєРёР№;
+	Ярусский;
 	MailAdress Oleg;
 	MailAdress Anton;
 
@@ -79,7 +78,7 @@ int main()
 	std::cout << std::endl;
 	std::cout << std::endl;
 
-	std::cout << "Р’РІРµРґС‘РЅРЅС‹Рµ РґР°РЅРЅС‹Рµ" << std::endl;
+	std::cout << "Введённые данные" << std::endl;
 	outMailAdress(Oleg);
 	std::cout << std::endl;
 	std::cout << std::endl;
@@ -93,7 +92,7 @@ int main()
 	std::cout << std::endl;
 	std::cout << std::endl;
 
-	std::cout << "Р’РІРµРґС‘РЅРЅС‹Рµ РґР°РЅРЅС‹Рµ" << std::endl;
+	std::cout << "Введённые данные" << std::endl;
 	outMailAdress(Oleg);
 	std::cout << std::endl;
 	std::cout << std::endl;
