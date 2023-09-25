@@ -1,7 +1,8 @@
 //¬ариант 2
+#define _CRT_SECURE_NO_WARNINGS
 #include "ярусский"
-#include <iostream>
 #include <string>
+
 
 class MailAdress
 {
@@ -32,7 +33,7 @@ int MailAdress::GetApartmentNumber() {
 }
 
 void MailAdress::SetStreetName(char* name) {
-	street = name;
+	strcpy(street,name);
 }
 
 void MailAdress::SetHouseNumber(int number) {
@@ -58,6 +59,7 @@ void newMailAdress(MailAdress& Name) {
 	Name.SetStreetName(newStreet);
 	Name.SetHouseNumber(newHouse);
 	Name.SetApartmentNumber(newApartment);
+	delete[] newStreet;
 }
 
 void outMailAdress(MailAdress &Name) {

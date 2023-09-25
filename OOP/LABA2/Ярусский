@@ -1,7 +1,9 @@
 #pragma once
 #include <iostream>
+#include <windows.h>
 #define ярусский rus()
 
 void rus(){
-	setlocale(LC_ALL, "RUS");
+	SetConsoleOutputCP(1251);
+	SetConsoleCP(1251);
 }
