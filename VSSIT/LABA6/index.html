@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Лабораторная работа №6</title>
+</head>
+
+<body>
+    <h1>Интернет-магазин</h1>
+
+    <h2>Список товаров</h2>
+    <table border="1" width="900" style="border-collapse:collapse;">
+        <tr>
+            <td>
+                <h3>Товар 1</h3>
+                <img src="/pic.png" width="230" height="150">
+                <p>
+                <b id="1__">Остаток на складе </b>
+                </p>
+                <input type="checkbox" id="1" name="Товар 1">
+                <input type="number" id="1_" name="Количество" value="0" min="0" oninput="this.value = Math.abs(this.value)">
+                </p>
+            </td>
+            <td>
+                <h3>Товар 2</h3>
+                <img src="/pic.png" width="230" height="150">
+                <p>
+                <b  id="2__">Остаток на складе</b>
+                </p>
+                <p>
+                    <input type="checkbox" id="2" name="Товар 2">
+                    <input type="number" id="2_" name="Количество" value="0" min="0" oninput="this.value = Math.abs(this.value)">
+                </p>
+            </td>
+            <td>
+                <h3>Товар 3</h3>
+                <img src="/pic.png" width="230" height="150">
+                <p>
+                <b id="3__">Остаток на складе</b>
+                </p>
+                <p>
+                    <input type="checkbox" id="3" name="Товар 3">
+                    <input type="number" id="3_" name="Количество" value="0" min="0" oninput="this.value = Math.abs(this.value)">
+                </p>
+            </td>
+            <td>
+                <h3>Товар 4</h3>
+                <img src="/pic.png" width="230" height="150">
+                <p>
+                <b  id="4__">Остаток на складе</b>
+                </p>
+                <p>
+                    <input type="checkbox" id="4" name="Товар 4">
+                    <input type="number" id="4_" name="Количество" value="0" min="0" oninput="this.value = Math.abs(this.value)">
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button onclick="submit()">Оформить заказ</button>
+            </td>
+        </tr>
+    </table>
+    <script src="script.js"></script>
+</body>
