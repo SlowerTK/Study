@@ -1,0 +1,13 @@
+﻿  LABA3.cpp
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(13,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(14,3): error C2065: mov: необъявленный идентификатор
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(14,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(14,7): error C2065: eax: необъявленный идентификатор
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(15,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "div"
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(15,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "B"
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(15,3): warning C4551: в вызове функции отсутствует список аргументов
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(16,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(16,3): error C2065: mov: необъявленный идентификатор
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(16,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "A"
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(16,10): error C2065: eax: необъявленный идентификатор
+D:\github\Study\VSSIT\LABA3\LABA3.cpp(18,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

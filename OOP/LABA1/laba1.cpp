@@ -32,7 +32,8 @@ int main() {
             cout << "Введите символ: ";
             cin >> char_;
             cout << "Введите строку: ";
-            cin >> string;
+            fgets(string, 100, stdin);
+            string[strcspn(string, "\n")] = NULL;
 
             choose = 0;
 
