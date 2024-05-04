@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[2] \u0412\u044B\u0447\u0438\u0441\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430\\\u041B\u0430\u0431\u0430 1\\laba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D4614F-2450-4CFD-ACB7-5C7B22C1DF47}|laba1.vcxproj|D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[2] \u0412\u044B\u0447\u0438\u0441\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430\\\u041B\u0430\u0431\u0430 1\\laba1\\laba1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25D4614F-2450-4CFD-ACB7-5C7B22C1DF47}|laba1.vcxproj|solutionrelative:laba1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 446,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba1.cpp",
+              "DocumentMoniker": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[2] \u0412\u044B\u0447\u0438\u0441\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430\\\u041B\u0430\u0431\u0430 1\\laba1\\laba1.cpp",
+              "RelativeDocumentMoniker": "laba1.cpp",
+              "ToolTip": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[2] \u0412\u044B\u0447\u0438\u0441\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430\\\u041B\u0430\u0431\u0430 1\\laba1\\laba1.cpp",
+              "RelativeToolTip": "laba1.cpp",
+              "ViewState": "AQIAANkAAAAAAAAAAAAkwPAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-13T06:15:35.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[1] \u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043F\u0440\u0438\u043A\u043E\u043B\u044B\\\u041B\u0430\u0431\u0430 4\\OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4522B3-F08F-4CB6-815A-8371DE646EC9}|OpenGL.vcxproj|D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[1] \u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043F\u0440\u0438\u043A\u043E\u043B\u044B\\\u041B\u0430\u0431\u0430 4\\OpenGL\\OpenGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4522B3-F08F-4CB6-815A-8371DE646EC9}|OpenGL.vcxproj|solutionrelative:OpenGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 446,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenGL.cpp",
+              "DocumentMoniker": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[1] \u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043F\u0440\u0438\u043A\u043E\u043B\u044B\\\u041B\u0430\u0431\u0430 4\\OpenGL\\OpenGL.cpp",
+              "RelativeDocumentMoniker": "OpenGL.cpp",
+              "ToolTip": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[1] \u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043F\u0440\u0438\u043A\u043E\u043B\u044B\\\u041B\u0430\u0431\u0430 4\\OpenGL\\OpenGL.cpp",
+              "RelativeToolTip": "OpenGL.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-16T05:16:09.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
