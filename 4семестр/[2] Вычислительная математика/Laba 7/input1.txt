@@ -1,0 +1,19 @@
+5
+d
+2
+-2 2
+  
+a
+
+x*x-1
+0.001
+----------------------------------
+m:                    (1-5)
+g:                    (r,n,d)
+n:                    (any int)
+a,b:                  (any double)  g!=n || m = 5
+x0..xn:               (any double)  g==n
+s:                    (t,a)			g!=d && m!=5
+y0..yn:               (any double)  s==t
+f(x):                 (any string)  s==a && g==d || m==5
+eps:                  (any double)  g==d

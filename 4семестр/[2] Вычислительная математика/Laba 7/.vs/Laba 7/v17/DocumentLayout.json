@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[2] \u0412\u044B\u0447\u0438\u0441\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430\\Laba 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8F3CA2-07BB-4988-AFBF-C05E4C137FAA}|Laba 7.vcxproj|D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[2] \u0412\u044B\u0447\u0438\u0441\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430\\Laba 7\\Laba 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A8F3CA2-07BB-4988-AFBF-C05E4C137FAA}|Laba 7.vcxproj|solutionrelative:Laba 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 588,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laba 7.cpp",
+              "DocumentMoniker": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[2] \u0412\u044B\u0447\u0438\u0441\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430\\Laba 7\\Laba 7.cpp",
+              "RelativeDocumentMoniker": "Laba 7.cpp",
+              "ToolTip": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[2] \u0412\u044B\u0447\u0438\u0441\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430\\Laba 7\\Laba 7.cpp",
+              "RelativeToolTip": "Laba 7.cpp",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAAAN0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T13:20:44.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
