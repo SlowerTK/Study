@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\FigureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|solutionrelative:FigureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\GameWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|solutionrelative:GameWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\GameWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|solutionrelative:GameWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\Sandtrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|solutionrelative:Sandtrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\FigureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|solutionrelative:FigureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\resources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6610B7A-32E9-41C3-A7D3-E4307EA7E5DB}|Tetris.vcxproj|solutionrelative:resources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 710,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FigureManager.cpp",
+              "DocumentMoniker": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\FigureManager.cpp",
+              "RelativeDocumentMoniker": "FigureManager.cpp",
+              "ToolTip": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\FigureManager.cpp",
+              "RelativeToolTip": "FigureManager.cpp",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAqwJ8DAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T18:23:14.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameWindow.cpp",
+              "DocumentMoniker": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\GameWindow.cpp",
+              "RelativeDocumentMoniker": "GameWindow.cpp",
+              "ToolTip": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\GameWindow.cpp",
+              "RelativeToolTip": "GameWindow.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwE4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T17:52:28.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "resources.h",
+              "DocumentMoniker": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\resources.h",
+              "RelativeDocumentMoniker": "resources.h",
+              "ToolTip": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\resources.h",
+              "RelativeToolTip": "resources.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T17:26:12.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sandtrix.cpp",
+              "DocumentMoniker": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\Sandtrix.cpp",
+              "RelativeDocumentMoniker": "Sandtrix.cpp",
+              "ToolTip": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\Sandtrix.cpp",
+              "RelativeToolTip": "Sandtrix.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T09:49:38.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameWindow.h",
+              "DocumentMoniker": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\GameWindow.h",
+              "RelativeDocumentMoniker": "GameWindow.h",
+              "ToolTip": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\GameWindow.h",
+              "RelativeToolTip": "GameWindow.h",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwCMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T08:25:01.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FigureManager.h",
+              "DocumentMoniker": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\FigureManager.h",
+              "RelativeDocumentMoniker": "FigureManager.h",
+              "ToolTip": "D:\\[8] \u0423\u0447\u0451\u0431\u0430\\[90] OOP\\\u0447\u0442\u043E-\u0442\u043E \u0442\u0438\u043F\u043E \u0442\u0435\u0442\u0440\u0438\u0441\u0430\\FigureManager.h",
+              "RelativeToolTip": "FigureManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T13:32:47.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
